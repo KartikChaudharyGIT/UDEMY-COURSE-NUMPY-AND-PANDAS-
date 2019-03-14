@@ -1,0 +1,2 @@
+"Hello python"
+"learning the whole"
